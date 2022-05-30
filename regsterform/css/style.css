@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+	width: 54%;
+	height: 700px;
+	background: #080a0bd6;
+	padding-left: 8%;
+	margin: 14% 27%;
+	padding-top: 5%;
+	box-shadow: -11px -11px -11px -11px solid gray;
+	color: #ffff;
+}
+
+
+.input-group input {
+	/* position: relative; */
+	display: flex;
+	/* flex-wrap: wrap; */
+	/* align-items: stretch; */
+	width: 49%;
+	height: 39px;
+	margin: 2% 10px;
+	padding: 20px 10px;
+}
+
+.login-group input {
+	display: flex;
+	width: 49%;
+	height: 39px;
+	margin: 2% 10px;
+	padding: 20px 10px;
+}
+
+
+label {
+	font-size: 19px;
+	color: #f2eaea;
+	font-weight: 500;
+	padding: 12px -1px;
+	padding-bottom: -16px;
+	width: 32%;
+	margin: 3% 0;
+}
+button {
+	width: 60%;
+	height: 48px;
+	font-size: 24px;
+	text-transform: capitalize;
+	font-weight: bold;
+	margin: 0% 84px;
+}
